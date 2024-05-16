@@ -20,7 +20,7 @@ Ensure you have Python 3.x installed on your system.
 2. Add Bitcoin wallet addresses, each on a new line, to the `wallets.txt` file.
 3. Run the script using the following command:
     ```bash
-    python wallet_balance_checker.py
+    python check.py
     ```
 4. The script will output the balance of each wallet address listed in the `wallets.txt` file.
 
